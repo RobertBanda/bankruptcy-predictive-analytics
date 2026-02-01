@@ -1,6 +1,6 @@
-# 🎓 BANKRUPTCY PREDICTION ASSIGNMENT - COMPLETE PACKAGE
+#  BANKRUPTCY PREDICTION ASSIGNMENT - COMPLETE PACKAGE
 
-## 📌 Quick Start
+##  Quick Start
 
 **READ THIS FIRST:** START_HERE_INSTRUCTIONS.md
 
@@ -8,9 +8,9 @@ This package contains everything you need to complete  Predictive Analytics assi
 
 ---
 
-## 📦 What's Included
+##  What's Included
 
-### ✅ READY-TO-USE FILES:
+###  READY-TO-USE FILES:
 
 1. **Taiwan_Bankruptcy_COMPLETE.ipynb**
    - Sections I-IV fully implemented
