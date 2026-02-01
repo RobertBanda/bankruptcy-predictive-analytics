@@ -69,7 +69,7 @@ This package contains everything you need to complete  Predictive Analytics assi
    - Action plan
    - What to do next
 
-## 📊 What Each File Does
+##  What Each File Does
 
 | File | Purpose | When to Use |
 |------|---------|-------------|
@@ -120,7 +120,7 @@ You MUST complete these to pass:
 
 ---
 
-## 🎓 Assignment Requirements Mapping
+##  Assignment Requirements Mapping
 
 | Requirement | Status | Evidence |
 |-------------|--------|----------|
