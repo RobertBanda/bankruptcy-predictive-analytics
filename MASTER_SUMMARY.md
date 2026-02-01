@@ -4,7 +4,7 @@
 
 **READ THIS FIRST:** START_HERE_INSTRUCTIONS.md
 
-This package contains everything you need to complete your Predictive Analytics assignment successfully.
+This package contains everything you need to complete  Predictive Analytics assignment successfully.
 
 ---
 
